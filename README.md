@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Reknotx
 - 👀 I’m interested in gameplay programming. Preferably AI.
 - 🌱 I’m currently learning Video Game Design and Computer Science.
-- 💞️ I’m looking to collaborate on video games with fairly complex mechanics.
+- 💞️ I’m looking to collaborate on video games with complex mechanics.
 - 📫 How to reach me email croconnor@mail.csuchico.edu.
 
 <!---
